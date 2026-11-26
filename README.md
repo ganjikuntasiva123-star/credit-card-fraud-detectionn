@@ -2,7 +2,7 @@
 Machine learning-based credit card fraud detection using a tuned Random Forest classifier.
 # 💳 Credit Card Fraud Detection
 
-A machine learning project that identifies potentially fraudulent credit card transactions using a **Tuned Random Forest Classifier**. The project handles the highly imbalanced transaction dataset and evaluates the model using multiple performance metrics.
+AI model project that identifies potentially fraudulent credit card transactions using a **Tuned Random Forest Classifier**. The project handles the highly imbalanced transaction dataset and evaluates the model using multiple performance metrics.
 
 ### 📊 Model Performance
 
